@@ -1,2 +1,3 @@
-# Drumbuss-Keytracker
-A Max4Live device for keytracking MIDI Input and controlling the boom frequency of the drumbuss device.
+# Drumbuss Keytracker
+A small Max4Live device.
+This device is meant to be used with Live 10's Drumbuss device!
